@@ -10,9 +10,10 @@ Usage
 -----
 
 ## HTML
-
-<label for='mytextarea'> My Textarea </label>
-<textarea name='mytextarea'></textarea>
+    <form>
+        <label for='mytextarea'> My Textarea </label>
+        <textarea name='mytextarea'></textarea>
+    </form>
 
 ## jQuery
 
@@ -20,4 +21,4 @@ Usage
 
 ## Return
 
-<label for='mytextarea'> My Textarea <span>200</span> </label>
+    <label for='mytextarea'> My Textarea <span>200</span> </label>
